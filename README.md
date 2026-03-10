@@ -51,6 +51,9 @@ Me considero un profesional analítico y en constante evolución. Disfruto traba
 Si quieres hablar sobre tecnología, oportunidades de colaboración o desarrollo de software, ¡no dudes en contactarme!
 
 <div align="center">
+  <a href="mailto:luisangelangel38@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/luisquirola04">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
