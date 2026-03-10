@@ -6,6 +6,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/496ecb14589707.562865d064f8e.gif" alt="Animación de código" width="600"/>
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mí
@@ -34,10 +38,19 @@ Me considero un profesional en constante evolución, apasionado por el aprendiza
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas y Logros
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisquirola04&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub de Luis Quirola" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisquirola04&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=luisquirola04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/luisquirola04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisquirola04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de luisquirola04" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisquirola04&layout=compact&langs_count=6&theme=tokyonight" alt="Lenguajes más usados" />
+  </a>
 </div>
