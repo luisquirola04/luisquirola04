@@ -1,8 +1,11 @@
-<h1 align="center">¡Hola, soy Luis Quirola! 👋</h1>
+<h1 align="center">¡Hola, soy Luis Quirola!👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Estudiante+de+Computaci%C3%B3n;Desarrollador+Backend;Quality+Assurance;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&width=450&center=true&vCenter=true&lines=Estudiante+de+Computaci%C3%B3n;Desarrollador+Backend;Quality+Assurance;Apasionado+por+la+tecnolog%C3%ADa" 
+      alt="Typing SVG" 
+    />
   </a>
 </div>
 
