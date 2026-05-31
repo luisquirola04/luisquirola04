@@ -63,4 +63,6 @@ Si quieres hablar sobre tecnología, oportunidades de colaboración o desarrollo
   <a href="https://github.com/luisquirola04">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+   <a href="https://linktr.ee/luisquirola">
+<img src="https://img.shields.io/badge/Linktree-1E1E1E?style=for-the-badge&logo=linktree&logoColor=39E09B" alt="Linktree" />  </a>
 </div>
