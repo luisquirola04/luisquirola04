@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy Egresado de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja. Tengo un fuerte enfoque en el **desarrollo web**, la **arquitectura de software** y el **Aseguramiento de Calidad (QA)**, destacando especialmente en la construcción y validación de ecosistemas **backend** escalables.
+Soy Ingeniero en Ciencias de la Computación en la Universidad Nacional de Loja. Tengo un fuerte enfoque en el **desarrollo web**, la **arquitectura de software** y el **Aseguramiento de Calidad (QA)**, destacando especialmente en la construcción y validación de ecosistemas **backend** escalables.
 
 Me considero un profesional analítico y en constante evolución. Disfruto trabajar en equipo y creo en la colaboración como pilar para el éxito de proyectos tecnológicos. Además, cuento con bases sólidas en la gestión del ciclo de vida del software, dominando tanto enfoques ágiles como **Scrum**, así como metodologías tradicionales como el modelo en **Cascada**. Esto me permite estructurar, adaptar y asegurar la calidad, el rendimiento y la seguridad del código en cualquier fase del proyecto.
 
